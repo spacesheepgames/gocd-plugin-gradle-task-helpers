@@ -4,7 +4,13 @@
       "moduleLicense": "^BSD$"
     },
     {
+      "moduleLicense": "BSD Zero Clause License"
+    },
+    {
       "moduleLicense": "^The 2-Clause BSD License$"
+    },
+    {
+      "moduleLicense": "The 3-Clause BSD License"
     },
     {
       "moduleLicense": "Apache License, Version 2.0"
